@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in {1. .5}
+for i in {1 2 3 4 5}
 do
-  echo " wc -l loremipsum-1.txt $i "
+  echo " wc -l loremipsum-1.txt $i"
 done
